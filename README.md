@@ -1,0 +1,5 @@
+[![make.fun · u-febri-yudila-agent-motto-battle-8861ed5d](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/tanakatsu33/agent-motto-battle/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/tanakatsu33/agent-motto-battle/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+
+An entry for the make.fun "Agent Motto Battle": `main.ts` writes a one-line AI agent motto — "Trained on all of human knowledge; employed to fix your typos." — to `entry.txt` in `$MAKEFUN_OUTPUT_DIR` (default `/output`).
